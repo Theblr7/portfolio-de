@@ -1,2 +1,2 @@
-# portifolio-de
+# portfolio-de
 Personal Portfolio as a DATA ENGINEER
